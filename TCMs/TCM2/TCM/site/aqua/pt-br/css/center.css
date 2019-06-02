@@ -1,0 +1,44 @@
+/* Conteúdo centro */
+#center{margin-left:240px; padding-bottom:30px;}
+#center img{padding-bottom:6px;}
+
+#title_game{position:absolute; margin-top:23px; margin-left:25px; font-size:14px;  color:#fff; font-weight:bold; }
+#title_game a:hover{color:#e8f0f1;}
+
+#box_top{background:url('../img/center/box_top.png'); width:520px; height:123px; position:absolute; top:285px;}
+#top2{height:92px;}
+#box_center{background:url('../img/center/box_center.png'); width:520px; height:auto; }
+#box_center p{font-size:12px; color:#fff; margin-left:50px; padding-bottom:20px; line-height:20px;text-align:left; width:420px;}
+#box_down1{background:url('../img/center/box_down1.png'); width:520px; height:58px;}
+#box_down2{background:url('../img/center/box_down2.png'); width:520px; height:58px;}
+#box_center .send{color:#fff; cursor:pointer; font-weight:bold;}
+#menu_box{position:absolute; margin-top:25px; margin-left:100px;}
+#menu_box li{font-size:13px; vertical-align: middle; display: table-cell; padding-left:58px;}
+#menu_box a{ color:#fff;}
+#menu_box a:hover{ color:#fff;}
+
+/* Validação formulário */
+label.error { color: #f00;  font-size: 12px; display:block; padding-top:10px; color:#d9e7d9;}
+label{color:#d1d1d1;}
+
+#frmContact input, select, textarea {position:inherit; background:#102529; height:15px;	border:none; color:#8f8f8f; padding:7px;}
+#frmContact textarea {width:380px; height:80px; margin-bottom3px; overflow:auto;}
+#frmContact select {width:245px; height:30px; }
+#frmContact dt{padding:10px 0 10px 0;}
+#frmContact legend {font-size:13px; margin-left:90px; height:40px; margin-bottom:15px; width:400px; color:#fff;}
+#frmContact .send{height:30px; margin:10px 0 0 335px; width:60px;}
+#frmContact{font-size:12px; margin-left:65px; padding-bottom:30px; color:#8f8f8f;}
+
+#error_icon{background:url('../img/error_icon.png') no-repeat; width:14px; height:14px; width:400px; padding-left:20px;}
+#cont{display: none; margin-top:5px;}
+
+.maple{margin-left:-10px; padding:10px; display:inline; float:left;}
+#gallery ul img{clear:both; }
+.gallery_img {margin:10px; margin-left:17px; border:3px solid #43646a;}
+.gallery_img:hover {margin:10px; margin-left:17px; border:3px solid #7eb1ba;}
+
+#box_center .t_down{font-size:20px;}
+#box_center .t_down2{font-size:17px;}
+#box_center ul{color:#fff; font-size:12px; width:300px; margin-left:10px; padding-bottom:37px;}
+
+#t_screen p{position:absolute; top:400px; font-size:20px; font-weight:bold;}

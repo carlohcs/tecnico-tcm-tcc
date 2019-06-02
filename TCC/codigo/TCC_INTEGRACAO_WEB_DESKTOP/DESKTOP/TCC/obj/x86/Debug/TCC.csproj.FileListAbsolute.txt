@@ -1,0 +1,253 @@
+c:\users\etecpj\documents\visual studio 2010\Projects\TCC\TCC\bin\Debug\TCC.exe
+c:\users\etecpj\documents\visual studio 2010\Projects\TCC\TCC\bin\Debug\TCC.pdb
+c:\users\etecpj\documents\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\etecpj\documents\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+c:\users\etecpj\documents\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\etecpj\documents\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\etecpj\documents\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\TCC.exe
+c:\users\etecpj\documents\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\TCC.pdb
+c:\users\etecpj\documents\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\TCC.LogonForm.resources
+c:\users\etecpj\documents\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\TCC.MainMenuForm.resources
+c:\users\etecpj\documents\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\TCC.SplashForm.resources
+J:\SandubaProf x\TCC\TCC\obj\x86\Debug\TCC.exe
+J:\SandubaProf x\TCC\TCC\obj\x86\Debug\TCC.pdb
+F:\SandubaProf x\TCC\TCC\obj\x86\Debug\TCC.exe
+F:\SandubaProf x\TCC\TCC\obj\x86\Debug\TCC.pdb
+F:\SandubaProf x\TCC\TCC\bin\Debug\TCC.exe
+F:\SandubaProf x\TCC\TCC\bin\Debug\TCC.pdb
+F:\SandubaProf x\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\SandubaProf x\TCC\TCC\obj\x86\Debug\TCC.LogonForm.resources
+F:\SandubaProf x\TCC\TCC\obj\x86\Debug\TCC.MainMenuForm.resources
+F:\SandubaProf x\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+F:\SandubaProf x\TCC\TCC\obj\x86\Debug\TCC.SplashForm.resources
+F:\SandubaProf x\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\SandubaProf x\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\SandubaProf x\TCC\TCC\obj\x86\Debug\TCC.exe
+K:\SandubaProf x\TCC\TCC\obj\x86\Debug\TCC.pdb
+J:\SandubaProf x\TCC\TCC\bin\Debug\TCC.exe
+J:\SandubaProf x\TCC\TCC\bin\Debug\TCC.pdb
+J:\SandubaProf x\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\SandubaProf x\TCC\TCC\obj\x86\Debug\TCC.LogonForm.resources
+J:\SandubaProf x\TCC\TCC\obj\x86\Debug\TCC.MainMenuForm.resources
+J:\SandubaProf x\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+J:\SandubaProf x\TCC\TCC\obj\x86\Debug\TCC.SplashForm.resources
+J:\SandubaProf x\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\SandubaProf x\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Stuff\SandubaProf x\TCC\TCC\obj\x86\Debug\TCC.exe
+F:\Stuff\SandubaProf x\TCC\TCC\obj\x86\Debug\TCC.pdb
+K:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.exe
+K:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.pdb
+K:\Stuff\VB e C#\TCC\TCC\bin\Debug\TCC.exe
+K:\Stuff\VB e C#\TCC\TCC\bin\Debug\TCC.pdb
+K:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.LogonForm.resources
+K:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.MainMenuForm.resources
+K:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+K:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.SplashForm.resources
+K:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.exe
+J:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.pdb
+J:\Stuff\VB e C#\TCC\TCC\bin\Debug\TCC.exe
+J:\Stuff\VB e C#\TCC\TCC\bin\Debug\TCC.pdb
+J:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+J:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.exe
+E:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.Form1.resources
+E:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+E:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.SplashForm.resources
+E:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Stuff\VB e C#\TCC\TCC\bin\Debug\TCC.exe
+E:\Stuff\VB e C#\TCC\TCC\bin\Debug\TCC.pdb
+E:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.pdb
+J:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.MenuForm.resources
+J:\Stuff\VB e C#\TCC\TCC\bin\Debug\TCC.exe.config
+J:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.loginForm.resources
+E:\Stuff\VB e C#\TCC\TCC\bin\Debug\TCC.exe.config
+E:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.Form2.resources
+E:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.Form3.resources
+E:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.loginForm.resources
+E:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.MenuForm.resources
+J:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.PubDialog.resources
+J:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.Form4.resources
+J:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.PubForm.resources
+J:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.ArticleForm.resources
+C:\Users\Kopezky\Documents\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\Kopezky\Documents\TCC\TCC\obj\x86\Debug\TCC.exe
+C:\Users\Kopezky\Documents\TCC\TCC\obj\x86\Debug\TCC.pdb
+J:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.PollListForm.resources
+J:\Stuff\VB e C#\TCC\TCC\obj\x86\Debug\TCC.ArtListForm.resources
+J:\TCC\TCC\bin\Debug\TCC.exe.config
+J:\TCC\TCC\obj\x86\Debug\TCC.exe
+J:\TCC\TCC\obj\x86\Debug\TCC.pdb
+J:\TCC\TCC\bin\Debug\TCC.exe
+J:\TCC\TCC\bin\Debug\TCC.pdb
+J:\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\TCC\TCC\obj\x86\Debug\TCC.PollListForm.resources
+J:\TCC\TCC\obj\x86\Debug\TCC.PubForm.resources
+J:\TCC\TCC\obj\x86\Debug\TCC.ArticleForm.resources
+J:\TCC\TCC\obj\x86\Debug\TCC.Form4.resources
+J:\TCC\TCC\obj\x86\Debug\TCC.loginForm.resources
+J:\TCC\TCC\obj\x86\Debug\TCC.MenuForm.resources
+J:\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+J:\TCC\TCC\obj\x86\Debug\TCC.PubDialog.resources
+J:\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\TCC\TCC\bin\Debug\TCC.exe.config
+L:\TCC\TCC\obj\x86\Debug\TCC.exe
+L:\TCC\TCC\obj\x86\Debug\TCC.pdb
+L:\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\TCC\TCC\obj\x86\Debug\TCC.NewPollCreate.resources
+L:\TCC\TCC\obj\x86\Debug\TCC.PollListForm.resources
+L:\TCC\TCC\obj\x86\Debug\TCC.PubForm.resources
+L:\TCC\TCC\obj\x86\Debug\TCC.ArticleForm.resources
+L:\TCC\TCC\obj\x86\Debug\TCC.Form4.resources
+L:\TCC\TCC\obj\x86\Debug\TCC.loginForm.resources
+L:\TCC\TCC\obj\x86\Debug\TCC.MenuForm.resources
+L:\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+L:\TCC\TCC\obj\x86\Debug\TCC.PubDialog.resources
+L:\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\TCC\TCC\bin\Debug\TCC.exe
+L:\TCC\TCC\bin\Debug\TCC.pdb
+J:\TCC\TCC\obj\x86\Debug\TCC.NewPollCreate.resources
+J:\TCC\TCC\obj\x86\Debug\TCC.Form6.resources
+J:\TCC\TCC\obj\x86\Debug\TCC.Form7.resources
+L:\TCC\TCC\obj\x86\Debug\TCC.Form6.resources
+L:\TCC\TCC\obj\x86\Debug\TCC.Form7.resources
+L:\TCC\TCC\obj\x86\Debug\TCC.Form8.resources
+J:\TCC\TCC\obj\x86\Debug\TCC.Form8.resources
+C:\TCC\TCC\bin\Debug\TCC.exe.config
+C:\TCC\TCC\obj\x86\Debug\TCC.exe
+C:\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\TCC\TCC\obj\x86\Debug\TCC.ArticleForm.resources
+C:\TCC\TCC\obj\x86\Debug\TCC.NewPollCreate.resources
+C:\TCC\TCC\obj\x86\Debug\TCC.PollListForm.resources
+C:\TCC\TCC\obj\x86\Debug\TCC.PubForm.resources
+C:\TCC\TCC\obj\x86\Debug\TCC.Form4.resources
+C:\TCC\TCC\obj\x86\Debug\TCC.loginForm.resources
+C:\TCC\TCC\obj\x86\Debug\TCC.MenuForm.resources
+C:\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+C:\TCC\TCC\obj\x86\Debug\TCC.PubDialog.resources
+C:\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\TCC\TCC\bin\Debug\TCC.exe
+C:\TCC\TCC\bin\Debug\TCC.pdb
+C:\TCC\TCC\obj\x86\Debug\TCC.pdb
+C:\TCC\TCC\obj\x86\Debug\TCC.NewsFormListaNoticias.resources
+C:\TCC\TCC\obj\x86\Debug\TCC.NewsFormListaNoticiasDestacadas.resources
+C:\TCC\TCC\obj\x86\Debug\TCC.Form6.resources
+G:\TCC_ATUAL\TCC\TCC\bin\Debug\TCC.exe.config
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.exe
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.pdb
+G:\TCC_ATUAL\TCC\TCC\bin\Debug\TCC.exe
+G:\TCC_ATUAL\TCC\TCC\bin\Debug\TCC.pdb
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.Form6.resources
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ArticleForm.resources
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.NewPollCreate.resources
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.PollListForm.resources
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.NewsFormListaNoticias.resources
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.PubForm.resources
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.Form4.resources
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.loginForm.resources
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.MenuForm.resources
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.NewsFormListaNoticiasDestacadas.resources
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.PubDialog.resources
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\TCC_ATUAL\TCC\TCC\bin\Debug\TCC.exe.config
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.exe
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.pdb
+L:\TCC_ATUAL\TCC\TCC\bin\Debug\TCC.exe.config
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.exe
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.pdb
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.Form6.resources
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ArticleForm.resources
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.NewPollCreate.resources
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.PollListForm.resources
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.NewsFormListaNoticias.resources
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.PubForm.resources
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.Form4.resources
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.loginForm.resources
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.MenuForm.resources
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.NewsFormListaNoticiasDestacadas.resources
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.PubDialog.resources
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\TCC_ATUAL\TCC\TCC\bin\Debug\TCC.exe
+L:\TCC_ATUAL\TCC\TCC\bin\Debug\TCC.pdb
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ContaEdita.resources
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ContaUsuSist.resources
+J:\TCC_ATUAL\TCC\TCC\bin\Debug\TCC.exe
+J:\TCC_ATUAL\TCC\TCC\bin\Debug\TCC.pdb
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.Form6.resources
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ArticleForm.resources
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ContaEdita.resources
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ContaUsuSist.resources
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.NewPollCreate.resources
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.PollListForm.resources
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.NewsFormListaNoticias.resources
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.PubForm.resources
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.Form4.resources
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.loginForm.resources
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.MenuForm.resources
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.NewsFormListaNoticiasDestacadas.resources
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.PubDialog.resources
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\TCC_ATUAL\TCC\TCC\bin\Debug\TCC.exe.config
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.exe
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.pdb
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ContForm.resources
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.Form6.resources
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ArticleForm.resources
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ContaEdita.resources
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ContaUsuSist.resources
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.NewPollCreate.resources
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.PollListForm.resources
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.NewsFormListaNoticias.resources
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.PubForm.resources
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.Form4.resources
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.loginForm.resources
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.MenuForm.resources
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.NewsFormListaNoticiasDestacadas.resources
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.PubDialog.resources
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ContForm.resources
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ContaEdita.resources
+G:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ContaUsuSist.resources
+L:\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ContForm.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.exe
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ContForm.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.Form6.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ArticleForm.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ContaEdita.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.ContaUsuSist.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.forms.contasUsuarios.contasUsuarios.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.NewPollCreate.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.PollListForm.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.NewsFormListaNoticias.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.PubForm.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.Form4.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.loginForm.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.MenuForm.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.NewsFormListaNoticiasDestacadas.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\TCC.PubDialog.resources
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Carlos Henrique\Desktop\ULTIMO BACKUP\TCC_ATUAL\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog

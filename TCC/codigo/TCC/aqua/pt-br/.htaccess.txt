@@ -1,0 +1,51 @@
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+ErrorDocument 404 /include/404.php
+ErrorDocument 403 /include/403_forbidden.php
+
+#INDEX
+RewriteRule ^index\/?$ http://127.0.0.1:8080/TCC/aqua/pt-br/index.php?page=index
+
+#FAQ
+RewriteRule ^faq\/?$ http://127.0.0.1:8080/TCC/aqua/pt-br/index.php?page=faq
+
+#CONTATO
+RewriteRule ^contato\/?$ http://127.0.0.1:8080/TCC/aqua/pt-br/index.php?page=contato
+
+#SOBRE
+RewriteRule ^sobre\/?$ http://127.0.0.1:8080/TCC/aqua/pt-br/index.php?page=sobre
+
+#LOGIN COM LOGIN INVÁLIDO
+RewriteRule ^index\/lgError\/login\/?([a-zA-Z0-9=]+)?$ http://127.0.0.1:8080/TCC/aqua/pt-br/index.php?page=index&lgError=login&user=$1
+
+#LOGIN COM SENHA INVÁLIDA
+RewriteRule ^index\/lgError\/pass\/?([a-zA-Z0-9=]+)?$ http://127.0.0.1:8080/TCC/aqua/pt-br/index.php?page=index&lgError=pass&user=$1
+RewriteRule ^index\/lgError\/logt\/?$ http://127.0.0.1:8080/TCC/aqua/pt-br/index.php?page=index&lgError=logt&user=$1
+
+#LOGOUT
+RewriteRule ^logoutUsuario\/?$ http://127.0.0.1:8080/TCC/aqua/pt-br/include/logoutUsuario.php
+
+#PERFIL DOS USUÁRIOS
+RewriteRule ^perfil\/?([a-z0-9.-_]+)\/?$ http://127.0.0.1:8080/TCC/aqua/pt-br/index.php?page=perfil&user=$1
+
+#VISUALIZAR ENQUETE
+#RewriteRule ^enquete\/visualizar\/?$ http://127.0.0.1:8080/TCC/aqua/pt-br/index.php?page=contato&enquete=visualizar
+
+#VISUALIZAR RESULTADO E VISUALIZAÇÃO ENQUETE
+RewriteRule ^([a-z]+)\/enquete\/resultado\/?$ http://127.0.0.1:8080/TCC/aqua/pt-br/index.php?page=$1&enquete=resultado
+RewriteRule ^([a-z]+)\/enquete\/visualizar\/?$ http://127.0.0.1:8080/TCC/aqua/pt-br/index.php?page=$1&enquete=visualizar
+
+#NOTÍCIAS RECENTES
+RewriteRule ^noticias\/?([a-zA-Z0-9-_]+)\/?$ http://127.0.0.1:8080/TCC/aqua/pt-br/index.php?page=noticias&noticia=$1
+
+#ACESSO NEGADO PARA ESCREVER
+RewriteRule ^([a-z]+)\/escreverArtigoNegado\/?$ http://127.0.0.1:8080/TCC/aqua/pt-br/index.php?page=$1&escreverArtigoNegado=1
+
+#ACESSO PERMITIDO PARA ESCREVER
+RewriteRule ^([a-z]+)\/escreverArtigo\/?$ http://127.0.0.1:8080/TCC/aqua/pt-br/index.php?page=escreverArtigo
+
+#JOGOS ACESSADOS POR CATEGORIA
+RewriteRule ^jogos\/?([a-zA-Z0-9_-]+)\/?([a-zA-Z0-9_-]+)\/?$ http://127.0.0.1:8080/TCC/aqua/pt-br/index.php?page=jogos&categoria=$1&jogoEsc=$2

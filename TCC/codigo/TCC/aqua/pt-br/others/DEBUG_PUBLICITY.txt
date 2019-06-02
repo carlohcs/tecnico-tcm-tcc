@@ -1,0 +1,22 @@
+$obj = new managePublicity;
+$returnData = $obj->retornarPublicidade();
+//trocaPublicidade(param1,param2,param3); 
+//window.setInterval("trocaBnPub(" + param1 + ", " + param2 + ", " + param3 + ")",1000);
+?>
+<html>
+<head>
+<script src='js/bannerPublicidade.js' type='text/javascript'></script>
+<?php
+//Transformando em string única para passar js
+$caminhoImg = implode("|", $returnData["caminhoImg"]);
+$titulos = implode("|", $returnData["titulos"]);
+$links = implode("|", $returnData["links"]);
+?>
+<script>var param1 = '"<?php echo $caminhoImg; ?>"';var param2 = '"<?php echo $titulos; ?>"';var param3 = '"<?php echo $links; ?>"';</script>
+
+</head>
+		<body>
+			<div id="dd"></div>
+			<script>window.setInterval("troca(" + param1 + ", " + param2 + ", " + param3 + ")",4000);</script>
+		</body>
+</html>		

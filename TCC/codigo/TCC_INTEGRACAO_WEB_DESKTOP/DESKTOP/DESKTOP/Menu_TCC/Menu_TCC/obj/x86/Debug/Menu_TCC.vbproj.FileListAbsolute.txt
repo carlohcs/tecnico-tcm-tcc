@@ -1,0 +1,63 @@
+C:\Documents and Settings\Danielle\Configurações locais\Dados de aplicativos\Temporary Projects\Menu_TCC\bin\Debug\Menu_TCC.exe
+C:\Documents and Settings\Danielle\Configurações locais\Dados de aplicativos\Temporary Projects\Menu_TCC\bin\Debug\Menu_TCC.pdb
+C:\Documents and Settings\Danielle\Configurações locais\Dados de aplicativos\Temporary Projects\Menu_TCC\bin\Debug\Menu_TCC.xml
+C:\Documents and Settings\Danielle\Configurações locais\Dados de aplicativos\Temporary Projects\Menu_TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Danielle\Configurações locais\Dados de aplicativos\Temporary Projects\Menu_TCC\obj\x86\Debug\Menu_TCC.Login.resources
+C:\Documents and Settings\Danielle\Configurações locais\Dados de aplicativos\Temporary Projects\Menu_TCC\obj\x86\Debug\Menu_TCC.Resources.resources
+C:\Documents and Settings\Danielle\Configurações locais\Dados de aplicativos\Temporary Projects\Menu_TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Danielle\Configurações locais\Dados de aplicativos\Temporary Projects\Menu_TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Danielle\Configurações locais\Dados de aplicativos\Temporary Projects\Menu_TCC\obj\x86\Debug\Menu_TCC.exe
+C:\Documents and Settings\Danielle\Configurações locais\Dados de aplicativos\Temporary Projects\Menu_TCC\obj\x86\Debug\Menu_TCC.xml
+C:\Documents and Settings\Danielle\Configurações locais\Dados de aplicativos\Temporary Projects\Menu_TCC\obj\x86\Debug\Menu_TCC.pdb
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.exe
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.xml
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.pdb
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Menu_TCC\Menu_TCC\bin\Debug\Menu_TCC.exe
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Menu_TCC\Menu_TCC\bin\Debug\Menu_TCC.pdb
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Menu_TCC\Menu_TCC\bin\Debug\Menu_TCC.xml
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.Resources.resources
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.MDIPrincipal.resources
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.frmLogin.resources
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.Form1.resources
+J:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.exe
+J:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.xml
+J:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.pdb
+J:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\bin\Debug\Menu_TCC.exe
+J:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\bin\Debug\Menu_TCC.pdb
+J:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\bin\Debug\Menu_TCC.xml
+J:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.Form1.resources
+J:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.frmLogin.resources
+J:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.MDIPrincipal.resources
+J:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.Resources.resources
+J:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.exe
+I:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.xml
+I:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.pdb
+I:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\bin\Debug\Menu_TCC.exe
+I:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\bin\Debug\Menu_TCC.pdb
+I:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\bin\Debug\Menu_TCC.xml
+I:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.Form1.resources
+I:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.frmLogin.resources
+I:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.MDIPrincipal.resources
+I:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.Resources.resources
+I:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\tecnico\3º Módulo\VB.NET\Menu_TCC\Menu_TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\tecnico\3º Módulo\TCC\DESKTOP\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.exe
+J:\tecnico\3º Módulo\TCC\DESKTOP\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.xml
+J:\tecnico\3º Módulo\TCC\DESKTOP\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.pdb
+J:\tecnico\3º Módulo\TCC\DESKTOP\Menu_TCC\Menu_TCC\bin\Debug\Menu_TCC.exe
+J:\tecnico\3º Módulo\TCC\DESKTOP\Menu_TCC\Menu_TCC\bin\Debug\Menu_TCC.pdb
+J:\tecnico\3º Módulo\TCC\DESKTOP\Menu_TCC\Menu_TCC\bin\Debug\Menu_TCC.xml
+J:\tecnico\3º Módulo\TCC\DESKTOP\Menu_TCC\Menu_TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\tecnico\3º Módulo\TCC\DESKTOP\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.Form1.resources
+J:\tecnico\3º Módulo\TCC\DESKTOP\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.frmLogin.resources
+J:\tecnico\3º Módulo\TCC\DESKTOP\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.MDIPrincipal.resources
+J:\tecnico\3º Módulo\TCC\DESKTOP\Menu_TCC\Menu_TCC\obj\x86\Debug\Menu_TCC.Resources.resources
+J:\tecnico\3º Módulo\TCC\DESKTOP\Menu_TCC\Menu_TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\tecnico\3º Módulo\TCC\DESKTOP\Menu_TCC\Menu_TCC\obj\x86\Debug\GenerateResource.write.1.tlog

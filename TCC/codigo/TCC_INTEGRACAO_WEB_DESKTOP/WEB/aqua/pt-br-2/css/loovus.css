@@ -1,0 +1,37 @@
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Corpo xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+* {margin:0; padding:0; border:0;  text-decoration:none; list-style:none; font-family: Verdana, Arial, Helvetica, sans-serif;}
+body  {background:url('../img/portfolio/background.png');}
+a, a:visited{color:#fff;}
+a:hover{color:#aeaeae;}
+
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Estrutura xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+#wrapper {margin:0 auto; width:1010px;}
+
+#loovus{width:520px; height:700px; margin-left:210px; top:210px; position:absolute;}
+
+#loovus p{ margin-left:202px; padding-top:30px; width:380px; text-align:justify; line-height:20px; color:#c3c3c3;  font-size:14px; color:#626053;}
+
+#menu{font:bold 10px Verdana, Arial, Georgia, sans-serif;  top:83px; margin-left:192px; position:absolute;}
+#menu a{margin-left:100px;}
+
+#center_top{background:url('../img/portfolio/center_top.png'); width:611px; height:70px;}
+#center{background:url('../img/portfolio/center.png'); width:611px; min-height:278px;}
+#center_down{background:url('../img/portfolio/center_down.png'); width:611px; height:70px;}
+
+#logo{background:url('../img/portfolio/logo.png'); width:163px; height:320px; margin-left:19px;top:71px; position:absolute;}
+
+#l_port{position:absolute; left:6px; top:20px; font-size:16px; font-weight:bold; color:#626053;}
+#l_port span{position:absolute; left:1px; top:27px; width:200px; font-size:12px; font-weight:normal;}
+
+#l_about{position:absolute; left:250px; top:20px; font-size:16px; width:200px; font-weight:bold; color:#626053;}
+.about{margin-left:160px;}
+#l_about span{position:absolute; left:1px; top:27px; width:200px; font-size:12px; font-weight:normal;}
+
+#l_contact{position:absolute; left:465px; top:20px; font-size:16px; width:200px; font-weight:bold; color:#626053;}
+.contact{margin-left:125px;}
+#l_contact span{position:absolute; left:1px; top:27px; width:200px; font-size:12px; font-weight:normal;}
+#t_loovus{position:absolute; margin-top:34px; width:250px; color:#fff; left:52px; font-size:16px;}
+
+#cp_right{position:absolute;left:120px; color:#626053; margin-top:20px; width:450px; font-size:12px;}

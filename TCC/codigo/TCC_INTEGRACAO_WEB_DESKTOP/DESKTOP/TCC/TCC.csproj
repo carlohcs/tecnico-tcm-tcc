@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{05F18B9F-6B50-4538-A3C9-61BE75BA3791}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TCC</RootNamespace>
+    <AssemblyName>TCC</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="class\manageContasSistema.cs" />
+    <Compile Include="class\manageUsuariosWeb.cs" />
+    <Compile Include="class\sqlInstruction.cs" />
+    <Compile Include="ContForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContForm.designer.cs">
+      <DependentUpon>ContForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\artigo\ArticleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\artigo\ArticleForm.Designer.cs">
+      <DependentUpon>ArticleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="class\manageArtigo.class.cs" />
+    <Compile Include="forms\contasSistema\ContaEdita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\contasSistema\ContaEdita.designer.cs">
+      <DependentUpon>ContaEdita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\contasSistema\ContaUsuSist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\contasSistema\ContaUsuSist.designer.cs">
+      <DependentUpon>ContaUsuSist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\contasUsuarios\contasUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\contasUsuarios\contasUsuarios.Designer.cs">
+      <DependentUpon>contasUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\enquete\NewPollCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\enquete\NewPollCreate.Designer.cs">
+      <DependentUpon>NewPollCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\enquete\PollListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\enquete\PollListForm.Designer.cs">
+      <DependentUpon>PollListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\noticias\NewsFormListaNoticias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\noticias\NewsFormListaNoticias.Designer.cs">
+      <DependentUpon>NewsFormListaNoticias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\publicidade\PubForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\publicidade\PubForm.Designer.cs">
+      <DependentUpon>PubForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\enquete\PollForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\enquete\PollForm.Designer.cs">
+      <DependentUpon>PollForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\publicidade\PubDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\publicidade\PubDialog.Designer.cs">
+      <DependentUpon>PubDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\noticias\NewsFormListaNoticiasDestacadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\noticias\NewsFormListaNoticiasDestacadas.Designer.cs">
+      <DependentUpon>NewsFormListaNoticiasDestacadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="forms\login\loginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\login\loginForm.Designer.cs">
+      <DependentUpon>loginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms\menu\MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\menu\MenuForm.Designer.cs">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ContForm.resx">
+      <DependentUpon>ContForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\artigo\ArticleForm.resx">
+      <DependentUpon>ArticleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\contasSistema\ContaEdita.resx">
+      <DependentUpon>ContaEdita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\contasSistema\ContaUsuSist.resx">
+      <DependentUpon>ContaUsuSist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\contasUsuarios\contasUsuarios.resx">
+      <DependentUpon>contasUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\enquete\NewPollCreate.resx">
+      <DependentUpon>NewPollCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\enquete\PollListForm.resx">
+      <DependentUpon>PollListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\noticias\NewsFormListaNoticias.resx">
+      <DependentUpon>NewsFormListaNoticias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\publicidade\PubForm.resx">
+      <DependentUpon>PubForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\enquete\PollForm.resx">
+      <DependentUpon>PollForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\login\loginForm.resx">
+      <DependentUpon>loginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\menu\MenuForm.resx">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\noticias\NewsFormListaNoticiasDestacadas.resx">
+      <DependentUpon>NewsFormListaNoticiasDestacadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="forms\publicidade\PubDialog.resx">
+      <DependentUpon>PubDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <Compile Include="class\manageNoticia.class.cs" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_desktop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_pub.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbtn_pub.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_news.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_cat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_art.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_acc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_cont.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_poll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbtn_acc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbtn_art.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbtn_cat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbtn_close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbtn_cont.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbtn_news.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbtn_poll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbtn_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbtn_login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hexit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbtn_close1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_form.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_article.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hedit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_inactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_inactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hdelete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_published.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_published_inactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbtn_published.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\published.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hpublished.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excluded.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hexcluded.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hcomplete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\complete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hnew_article.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hnew_poll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_poll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_poll_inactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tela_login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu_desktop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empty_background_form.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\central.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hcentral.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinfo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hside.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_inactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\side.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hloading_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading_image_inactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hnot_read.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\not_read.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\highlighted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hhighlighted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hlist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\load.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\news1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\news_inactive1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hyes1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yes1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\change_synopsis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\change_videos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\change_images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_editing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg_desktop1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn_exit1.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

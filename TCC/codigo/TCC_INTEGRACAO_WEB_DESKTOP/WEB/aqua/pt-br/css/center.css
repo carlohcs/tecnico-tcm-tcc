@@ -1,0 +1,105 @@
+/* Conteúdo centro */
+#center{margin-left:240px; padding-bottom:30px;}
+#center img{padding-bottom:6px;}
+
+#title_game{position:absolute; margin-top:23px; margin-left:25px; font-size:14px;  color:#fff; font-weight:bold; }
+#title_game a:hover{color:#e8f0f1;}
+
+#box_top{background:url('../img/center/box_top.png'); width:520px; height:92px; position:absolute; top:285px;}
+#top2{height:53px;}
+#box_center{background:url('../img/center/box_center.png'); width:520px; padding-top:15px; height:auto; }
+
+#box_down1{background:url('../img/center/box_down1.png'); width:520px; height:58px;}
+#box_down2{background:url('../img/center/box_down2.png'); width:520px; height:58px;}
+#box_center .send{color:#fff; cursor:pointer; font-weight:bold;}
+
+/* FAQ */
+.tit{height:auto; margin-top:15px; padding-bottom:10px; color:#dfe2e3; font:bold 14px Verdana, Tahoma, Sans-serif; cursor:pointer;} 
+#ul_faq  li{width:420px;}
+#ul_faq  li p, .resu{ color:#9dc9d1; text-align:justify; width:400px; line-height:18px;}
+
+#ul_faq  li p{margin-left:0; background:#28474d; color:#bfdadf; padding:10px; font:normal 13px Verdana, Tahoma, Sans-serif; line-height:20px;}
+
+#menu_box{position:absolute; font-size:13px; margin-top:25px; margin-left:25px;}
+.desc{position:absolute; margin-left:34px;}
+.down{position:absolute; margin-left:143px;}
+.img{position:absolute; margin-left:255px;}
+.vid{position:absolute; margin-left:370px;}
+
+#menu_box a{ color:#fff; }
+#menu_box a:hover{ color:#b8f5ff;}
+
+/* Compartilhar */
+#sharer_btn{padding-bottom:10px; width:425px;  margin-left:45px;margin-top:30px; text-align:right;}
+#sharer_btn a{color:#d9eff3; font-weight:bold; font-size:13px; }
+#sharer_btn img{vertical-align:-13px;}
+
+/* Validação formulário*/
+#error_icon {background: url('../img/center/error_icon.png');background-position: 0 -16px; margin-top:7px;}
+.validVal{background: url('../img/center/check.png');background-position: 0 -16px;position:absolute;margin-left:5px;width:16px;height:16px;}
+label{color:#d1d1d1;}
+
+
+.frmData input, select {font-size:13px; position:inherit; background:#132a2f; height:16px;	border:none; color:#98b0b4; padding:7px; margin-top:10px;}
+.frmData textarea {font-size:13px; position:inherit; background:#132a2f; border:none; color:#98b0b4; padding:7px; margin-top:10px; width:380px;  height:90px; margin-bottom:3px; overflow:auto;}
+.frmData select {width:245px; height:30px;}
+.frmData dt{padding:10px 0 0 0; font-size:13px;}
+.frmData legend {font-size:14px; padding-left:80px; height:40px;  padding-top:15px; width:330px; color:#fff;}
+.frmData .send{height:30px; margin:10px 0 0 335px; width:60px;}
+.frmData{font-size:12px; margin-left:60px; padding-bottom:30px; color:#8f8f8f;}
+#name, #email, #last_name, #login, #senha,  #senhaConf, #sobrenome{width:380px; background:#132a2f;}
+
+#term_use{ font-size:12px; margin-top:11px; background:none; position:absolute; margin-left:20px;}
+#error_term{position:absolute; margin-top:32px; margin-bottom:10px; margin-left:-203px;}
+* #chkTerm input{background:none;}
+.chkReg span{padding-left:5px; font-size:12px; vertical-align:2px;}
+.chkReg{margin-bottom:10px; }
+* .chkReg input {background:none;}
+
+#chkTermUseI{margin-right:190px;}
+
+#error_icon{background:url('../img/error_icon.png') no-repeat; width:14px; height:14px; width:400px; padding-left:20px;}
+#cont{display: none; margin-top:5px;}
+
+/* TERMOS DE USO */
+#termUse{overflow:scroll-y;}
+
+/*Jogos*/
+#game_vid {margin-left:50px; margin-top:10px; background:#0c262a; border:10px solid #0c262a;}
+#l_vid{margin:20px 20px 0 40px; padding-bottom:70px;}
+
+#l_vid a{background:#0d282d; color:#87acb3; padding:15px; margin-left:10px;  font-size:15px;}
+#l_vid a:hover{background:#2e5056; color:#bbe3ea;}
+
+
+
+.date_art{float:right;}
+.by_art{color:#7ea4ab; font-weight:bold;}
+
+
+#box_center .t_down{color:#cde2e6; font:bold 20px Tahoma, Arial, Tahoma, sans-serif; margin-left:43px; letter-spacing:1px; margin-bottom:20px;}
+#box_center .t_down2{font-size:20px; font:bold 18px Tahoma, Arial, Tahoma, sans-serif; color:#cde2e6; margin-left:45px; margin-bottom:10px; }
+#box_center .t_vid{color:#cde2e6; font:bold 25px Tahoma; margin-left:50px; letter-spacing:1px;}
+#box_center .desc_down{font:normal 13px  Verdana, Arial, Tahoma, sans-serif; width:427px; margin-bottom:20px;text-align:justify; color:#fff; margin-left:45px; line-height:20px;}
+#box_center .desc_req li{font:normal 13px  Verdana, Arial, Tahoma, sans-serif; line-height:20px;}
+
+#box_center ul{color:#fff; font-size:12px; width:300px; margin-left:10px; padding-bottom:27px;}
+#t_req li{font-size:14px; width:400px; margin-top:7px;}
+
+/*.maple{margin-left:-10px; padding:10px; display:inline; float:left;}*/
+.gallery ul img{clear:both;}
+.gallery_img {margin:10px; margin-left:12px; border:3px solid #43646a;}
+.gallery_img:hover {border:3px solid #7eb1ba;}
+
+#t_screen {padding-bottom:60px;}
+#t_screen p{position:absolute; top:390px; color:#cde2e6; font:bold 25px Tahoma; margin-left:62px; letter-spacing:1px;}
+#center li.gallery{width:500px;}
+
+.desc_game{font:normal 13px  Verdana, Arial, Tahoma, sans-serif; width:427px; line-height:19px; margin-left:45px; color:#fff; text-align:justify;}
+.img_game {margin-left:47px;}
+.img_game img{margin:0px auto; width:420px; height:126px;}
+
+.user_art{font-size:13px; width:430px; margin-left:45px;}
+.desc_art{font-size:13px; width:470px; line-height:20px;width:430px; margin-left:45px; color:#fff; margin-top:20px;}
+
+#desc_about{font-size:13px; margin-left:45px; color:#fff; width:430px; line-height:20px;}

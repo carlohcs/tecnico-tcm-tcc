@@ -1,0 +1,11 @@
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Form_fade_in_out\Form_fade_in_out\bin\Debug\Form_fade_in_out.exe
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Form_fade_in_out\Form_fade_in_out\bin\Debug\Form_fade_in_out.pdb
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Form_fade_in_out\Form_fade_in_out\bin\Debug\Form_fade_in_out.xml
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Form_fade_in_out\Form_fade_in_out\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Form_fade_in_out\Form_fade_in_out\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Form_fade_in_out\Form_fade_in_out\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Form_fade_in_out\Form_fade_in_out\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Form_fade_in_out\Form_fade_in_out\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Form_fade_in_out\Form_fade_in_out\obj\x86\Debug\Form_fade_in_out.exe
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Form_fade_in_out\Form_fade_in_out\obj\x86\Debug\Form_fade_in_out.xml
+C:\Documents and Settings\Danielle\Meus documentos\Bruna\_Tecnico_em_Informatica_para_Internet\3° Módulo\VB.NET\Form_fade_in_out\Form_fade_in_out\obj\x86\Debug\Form_fade_in_out.pdb
