@@ -10530,18 +10530,6 @@ CREATE TABLE IF NOT EXISTS `usuario` (
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=14 ;
 
 --
--- Extraindo dados da tabela `usuario`
---
-
-INSERT INTO `usuario` (`COD_USU`, `NOM_USU`, `SOBRE_USU`, `EMAIL_USU`, `LOG_USU`, `SEN_USU`, `DT_NASC_USU`, `DT_CADS_USU`, `FT_USU`, `DESC_USU`, `PTS_USU`, `FLAG_RNSC`, `FLAG_EMAIL_VIS`, `FLAG_DTNASC_VIS`, `COD_TIT_USU`, `COD_SEX`, `COD_CIDADE`, `COD_ESTADO`) VALUES
-(1, 'Carlos', 'Henrique Carvalho', 'carlohcs@gmail.com', 'carlohcs', '0d635b8b9e0905ebbb4c965ada9bb0af', '1992-11-24', '2011-10-18', 'img/usuarios/u_261011_1319642645.jpeg', 'Verificando dados.', 120, 0, 0, 0, 1, 1, 11470, 25),
-(2, 'Garcia', 'Santos do Rei', 'garcia.reis@uol.com.br', 'carlohcss', '0d635b8b9e0905ebbb4c965ada9bb0af', '1992-11-24', '2011-10-18', 'img/usuarios/u_211011_1319190195.png', 'Sou um jovem programador também.', 76, 0, 0, 0, 1, 2, 10654, 25),
-(8, 'Luciana', 'Carvalho', 'luciana.luc@hotmail.com', 'luciana.luc', '25f9e794323b453885f5181f1b624d0b', '1992-11-24', '2011-10-28', '', 'asdasdasdasdasd', 200, 0, 0, 0, 1, 1, 1, 1),
-(11, 'Jose C', 'Correia de Santana', 'jose.carlos@gmail.com', 'jose.c', '25f9e794323b453885f5181f1b624d0b', '2011-10-25', '2011-10-28', '', 'dfsdfsdfsdfsdfsdf', 350, 0, 1, 0, 1, 1, 4790, 15),
-(12, 'Carloss', 'asldkjasdklj', 'aslkdjaslkdj@asdasd.com', 'dasdaasd', '124bd1296bec0d9d93c7b52a71ad8d5b', '2011-10-25', '2011-10-30', '', 'asdasdasdsadasd', 90, 0, 1, 0, 1, 1, 5069, 16),
-(13, 'Carlos', 'Carvalho', 'carloh@asd.com', 'dsfsdf', '124bd1296bec0d9d93c7b52a71ad8d5b', '2011-10-09', '2011-10-30', '', '', 130, 0, 0, 0, 1, 1, 2824, 12);
-
---
 -- Restrições para as tabelas dumpadas
 --
 
